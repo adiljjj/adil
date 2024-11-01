@@ -1,5 +1,5 @@
-# adil
-projects of adil
+# adil 
+#projects of adil
 import numpy as np
 import scipy.sparse as sp
 import scipy.sparse.linalg as spla
